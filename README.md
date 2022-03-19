@@ -33,11 +33,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This app was a nice and smooth intro into android development using Kotlin. I learned about the different XML layouts 
+that I did not know before like the RecyclerView layout. It was cool to see that kotlins list data structure is very similar to arrays/lists in other languages.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Stephane Mbenga]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
